@@ -1,0 +1,1 @@
+# whenever you start with git please note that you practice it
